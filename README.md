@@ -5,22 +5,19 @@
   </a>
 </h1>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=blotz&theme=dark&show_icons=true" width="45%"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blotz&layout=compact&theme=dark" width="45%"/>
-<br/><br/><br/><br/><br/><br/><br/>
+<img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
+
+- 🔭 I’m currently working on: **discord bots**
+- 🌱 I’m currently learning: **python**
+- 🤔 I’m looking for help with: **google's api**
+- 💬 Ask me about: **[here](https://github.com/Blotz/Blotz/issues/1)! I am happy to help.**
+- 📫 How to reach me: **Discord add tags here**
+- 😄 Pronouns: **they/them**
 
 --------
 
-<img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
-
-- 🔭 I’m currently working on discord bots
-- 🌱 I’m currently learning python
-- 🤔 I’m looking for help with google's api
-- 💬 Ask me about Flairwars/ my discord bots
-- 📫 How to reach me: Discord add tags here
-- 😄 Pronouns: they/them
-
-
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=blotz&theme=dark&show_icons=true" width="45%"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blotz&layout=compact&theme=dark" width="45%"/>
 
 <!--
 - 🔭 I’m currently working on discord bots
