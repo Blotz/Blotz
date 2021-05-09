@@ -24,8 +24,8 @@
   <img src="https://img.shields.io/github/stars/Blotz?label=Stars" alt="Total Stars">
 </p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=blotz&theme=dark&show_icons=true" width="45%"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blotz&layout=compact&theme=dark" width="45%"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=blotz&theme=darcula&show_icons=true" width="45%"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blotz&layout=compact&theme=darcula" width="45%"/>
 
 <!--
 - 🔭 I’m currently working on discord bots
