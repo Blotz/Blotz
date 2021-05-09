@@ -1,11 +1,15 @@
-### Hi there 👋
--------
+<h1 align="center">
+  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt; !
+  <a target="_blank">
+    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/Hi.gif" width="40px" />
+  </a>
+</h1>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=blotz&theme=dark&show_icons=true" width="45%"/>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blotz&layout=compact&theme=dark" width="45%"/>
-<br></br><br></br><br></br><br></br>
+<br/><br/><br/><br/><br/><br/><br/>
 
--------
+--------
 
 <img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
