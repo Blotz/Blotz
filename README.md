@@ -12,6 +12,7 @@
 - 🤔 I’m looking for help with: **google's api**
 - 💬 Ask me about: **[here](https://github.com/Blotz/Blotz/issues/1)! I am happy to help.**
 - 📫 How to reach me: <img alt="blotz#7236" src="https://img.shields.io/badge/Discord-blotz%237236-%237289da">
+- 😄 Pronouns: **they/them**
 --------
 
 <p align="center">
