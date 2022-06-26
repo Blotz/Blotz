@@ -19,6 +19,9 @@
 - 💬 Ask me about: **[here](https://github.com/Blotz/Blotz/issues/1)! I am happy to help.**
 - 📫 How to reach me: **on discord @ [bløtz#8602](https://discordapp.com/users/510539578827079680) or on gmail @ f.p.theil@gmail.com** 
 
+<!-- Stops future text from wrapping around the text-->
+<br clear="right">
+
 ---
 
 ### Here are some of my favourite projects i have worked on
@@ -83,9 +86,23 @@ Options: [--countlines] count all lines including comments and whitespace
 ```
 Im definatly looking forwards to programming in the C again
 
+#### [QTile](https://github.com/Blotz/qtile-config)
+
+<img align="right" width="30%" src="https://github.com/Blotz/Blotz/blob/main/home.png" />
+
+This is my QTile config. Ive spent a lot of time hacking away at it and its been a pleasure to work with.
+I use this config as a daily driver on my framework laptop
+
+Im Addition, i wrote a [qtile-config-tester](https://github.com/Blotz/qtile-config-tester) to help any qtile-hackers to work on their own stunning configs. It starts a Xephr sessions so that you can view your QTile config without reloading your current config and potentially breaking your active config and causing you to have to view logs from the default config
+
+<!-- Stops future text from wrapping around the text-->
+<br clear="right">
+
 ---
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=blotz&theme=darcula&show_icons=true" width="45%"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blotz&layout=compact&theme=darcula" width="37.6%"/>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=blotz&theme=darcula&show_icons=true" width="45%"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blotz&layout=compact&theme=darcula" width="37.6%"/>
+</p>
 
 <!--
 - 🔭 I’m currently working on discord bots
