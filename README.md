@@ -26,6 +26,22 @@
 ---
 
 ### Here are some of my favourite projects i have worked on
+#### [Raytracing](https://github.com/Blotz/raytracing)
+<img align="right" width="20%" src="https://github.com/Blotz/raytracing/blob/main/cornellbox2.png" />
+A java recursive raytracer based of learn raytracing in one weekend.
+I loved learning about raytracers and creating this project. 
+It was originally for my uni coursework however I decided to go above and beyond to create a fully functional "application".
+If I had to recreate this project, I would code it using ray marching instead.
+This would allow me to include way more shapes into my code.
+
+anyways running this code is simple enough and I encourage you to try it out.
+```bash
+git clone https://github.com/Blotz/raytracing.git
+mvn javafx:run
+```
+Make sure to have the lastest version of java installed
+<br clear="right">
+
 #### [Inert-bot](https://github.com/inert-bot/discord-bot)
 A opensource project discord-bot written in python and c++. Whenever  i learn something new about computer science, i try and implement it in this bot
 Its codebase has migrated from repo to repo over the years. 
