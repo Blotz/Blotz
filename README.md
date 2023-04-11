@@ -26,6 +26,21 @@
 ---
 
 ### Here are some of my favourite projects i have worked on
+#### [Pixelsort](https://github.com/Blotz/pixelsort-cli)
+<img align="right" width="20%" src="https://raw.githubusercontent.com/Blotz/pixelsort-cli/main/data/example1.png" />
+A commandline tool written in python and published to [PyPi](https://pypi.org/project/pixelsort-cli) .
+This was a facinating project to work on.
+The idea of creating aesthetic images though unconventional ways was super appealing to me.
+I ended up publishing this code online because I noticed not many pixel sorters were published.
+A large focus on this project was simplicity. 
+I decided early on in this code's life time that I would aim to keep this code as simple as possilbe.
+
+Running this code is super simple. Simply install the package and run it via the commandline. 
+```bash
+pixelsort  data/mountains.jpg right --threshold 1.2 --invert True --output out.png
+```
+<br clear="right">
+
 #### [Raytracing](https://github.com/Blotz/raytracing)
 <img align="right" width="20%" src="https://github.com/Blotz/raytracing/blob/main/cornellbox2.png" />
 A java recursive raytracer based of learn raytracing in one weekend.
